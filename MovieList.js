@@ -25,6 +25,8 @@ export default {
     onRemoveMovie(movie) {
       let movieIndex = this.movies.indexOf(movie)
       this.movies.splice(movieIndex, 1)
+    // localStorage.removeItem('movie.indexOf(movie)',JSON.stringify(this.movies.indexOf(movie)))
+      
        
 
       

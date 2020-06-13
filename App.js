@@ -19,6 +19,7 @@ export default {
     
     return {
       movies: JSON.parse(localStorage.getItem("movie"))|| []
+      
      
     }
   
@@ -34,5 +35,6 @@ export default {
     }
    
   },
+  
  
 }

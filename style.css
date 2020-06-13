@@ -28,9 +28,10 @@
   }
 
   .movie-image{
-    width: 25%;
+    width: 30%;
     padding-top: 10px;
     padding-bottom: 5px;
+    
   }
   
   @media screen and (max-width: 767px) and (min-width: 320px){

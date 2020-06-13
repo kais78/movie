@@ -27,7 +27,7 @@ export default {
         
         <br>
         <br>
-        <label for="image">Image</label>
+        <label for="image">Image-link</label>
         <input id="image" v-model="image" type="text"><br>
        
         <br>
